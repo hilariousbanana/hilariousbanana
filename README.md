@@ -1,9 +1,8 @@
 
 ### Hi there 👋
 
-<div align=center>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hilariousbanana)](https://github.com/anuraghazra/github-readme-stats)
-
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hilariousbanana)](https://solved.ac/hilariousbanana)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hilariousbanana&show_icons=true&theme=dracula)
 
 <!--
 **hilariousbanana/hilariousbanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
